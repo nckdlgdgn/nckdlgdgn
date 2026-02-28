@@ -10,9 +10,15 @@ Passionate about designing beautiful, user-centered digital experiences.
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/dalugdugan-nicko-7b8a4a313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.behance.net/nickordalugdu"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-  <a href="https://nckdlgdgn.github.io/DESIGNER-PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/dalugdugan-nicko-7b8a4a313/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.behance.net/nickordalugdu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://nckdlgdgn.github.io/DESIGNER-PORTFOLIO/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
