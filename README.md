@@ -2,7 +2,7 @@
   
 # ✨ Nicko R. Dalugdugan ✨
 
-### 🎨 UI/UX Designer • 🌐 Web Designer • 💻 Front-End Dev
+### 🎨 UI/UX Designer • 🌐 Web Designer • 💻Aspiring Front-End Dev
 
 <p>
 4th-year BS Mathematics (Computer Science) student at Bulacan State University.<br>
