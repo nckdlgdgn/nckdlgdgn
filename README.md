@@ -5,7 +5,7 @@
 ### 🎨 UI/UX Designer • 🌐 Web Designer • 💻Aspiring Front-End Dev
 
 <p>
-4th-year BS Mathematics (Computer Science) student at Bulacan State University.<br>
+4th-year BS Mathematics major in Computer Science student at Bulacan State University.<br>
 Passionate about designing beautiful, user-centered digital experiences.
 </p>
 
